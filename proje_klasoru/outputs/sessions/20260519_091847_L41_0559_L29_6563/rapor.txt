@@ -1,0 +1,29 @@
+============================================================
+DEM ANALİZ RAPORU
+Tarih: 2026-05-19 09:18:47
+============================================================
+
+Koordinat: 41.05592165753617, 29.656312834259097
+Alan: 400.0m x 400.0m
+
+--- ANALİZ PARAMETRELERİ ---
+width: 400.0
+height: 400.0
+sigma: 40
+filter: Gaussian
+threshold: 5.0
+colormap: RdBu
+
+--- İSTATİSTİKLER ---
+neg_ratio: 45.08101851851852
+pos_ratio: 35.7445987654321
+std: 18.07923698425293
+min: -34.356239318847656
+max: 51.05167007446289
+mean: -1.8838011328625726e-07
+auto_sigma: 40
+
+--- ÇIKTI DOSYALARI ---
+anomaly_map: E:\proje_klasoru\outputs\anomali_41.05592165753617_29.656312834259097.png
+surfer_xyz: E:\proje_klasoru\outputs\anomali_41.05592165753617_29.656312834259097.xyz
+surfer_grd: E:\proje_klasoru\outputs\anomali_41.05592165753617_29.656312834259097.grd

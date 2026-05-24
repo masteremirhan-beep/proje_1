@@ -1,0 +1,37 @@
+============================================================
+ANOMALİ ANALİZ ÖZETİ
+============================================================
+
+Koordinat: 41.055922, 29.656313
+Alan: 400m x 400m
+Toplam nokta: 5184
+
+--- ANOMALİ DAĞILIMI ---
+Cokuntu: 2337 nokta (%45.1)
+Yukselti: 1853 nokta (%35.7)
+Normal: 994 nokta (%19.2)
+
+--- EN BUYUK ANOMALİLER ---
+En buyuk cokuntuler:
+  -34.36 m
+  -34.25 m
+  -34.07 m
+  -33.95 m
+  -33.94 m
+  -33.90 m
+  -33.63 m
+  -33.62 m
+  -33.58 m
+  -33.57 m
+
+En buyuk yukseltiler:
+  51.05 m
+  50.73 m
+  50.66 m
+  50.64 m
+  50.52 m
+  49.94 m
+  49.92 m
+  49.58 m
+  49.56 m
+  49.48 m
